@@ -1,0 +1,14 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  -webkit-text-stroke: 0.25px whitesmoke;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-image: radial-gradient(white, white);
+}
+/*# sourceMappingURL=main.css.map */
