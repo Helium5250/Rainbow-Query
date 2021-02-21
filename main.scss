@@ -1,7 +1,6 @@
 html {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 18px;
-	-webkit-text-stroke: 0.25px whitesmoke;
 
 	height: 100%;
 }
@@ -11,4 +10,16 @@ body {
 	margin: 0;
 	background-repeat: no-repeat;
 	background-image: radial-gradient(hsla(0, 100%, 100%, 1), hsla(0, 100%, 100%, 1));
+}
+
+#code {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	text-decoration: none;
+	color: inherit;
+}
+
+#code:hover {
+	color: #888;
 }

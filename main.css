@@ -1,7 +1,6 @@
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 18px;
-  -webkit-text-stroke: 0.25px whitesmoke;
   height: 100%;
 }
 
@@ -10,5 +9,17 @@ body {
   margin: 0;
   background-repeat: no-repeat;
   background-image: radial-gradient(white, white);
+}
+
+#code {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+#code:hover {
+  color: #888;
 }
 /*# sourceMappingURL=main.css.map */
